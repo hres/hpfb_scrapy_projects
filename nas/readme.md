@@ -6,3 +6,5 @@ NAS can be mapped with Drug Products recorded in Masterlist, which contains DIN 
 All active PM Numbers can be scraped by using packages: [PDFMiner](https://github.com/euske/pdfminer) and [Tesseract-OCR](https://github.com/openpaperwork/pyocr)
 
 Use [pandas dataframe](https://chrisalbon.com/python/pandas_dataframe_load_xls.html) to open Excel files.
+
+Please make sure to create three folders named: pdf_folder, pdftoimage, pdftoimage_text.
